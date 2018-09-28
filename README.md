@@ -21,4 +21,4 @@ This page collects NLU datasets proposed in 2018.
 | ARC        | RC   | multiple choice      | 8k   | science exam       | ?         | [url](http://data.allenai.org/arc/)                | easy 5197, challenge 2590         |                      |
 
 Note:
-* QA = question answering, RC = question answering with the context, NLI = natural language inference
+* QA = question answering, RC = reading comprehension = question answering with the context, NLI = natural language inference aka recognizing textual entailment
