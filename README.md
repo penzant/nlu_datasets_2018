@@ -21,10 +21,11 @@ This page collects NLU datasets proposed in 2018.
 | ARC        | RC   | multiple choice      | 8k   | science exam       | ?         | [url](http://data.allenai.org/arc/)                | easy 5197, challenge 2590         |                      |
 
 TODO:
-* [Interpretation of Natural Language Rules in Conversational Machine Reading](https://arxiv.org/abs/1809.01494) (Saeidi+ 2018)
-* [Multi-Relational Question Answering from Narratives: Machine Reading and Reasoning in Simulated Worlds](http://aclweb.org/anthology/P18-1077) (Labutov+ 2018)
-* [Event2Mind: Commonsense Inference on Events, Intents, and Reactions](http://aclweb.org/anthology/P18-1043) (Rashkin+ 2018)
-* [Modeling Naive Psychology of Characters in Simple Commonsense Stories](http://aclweb.org/anthology/P18-1213) (Rashkin+ 2018)
+* [Interpretation of Natural Language Rules in Conversational Machine Reading](https://arxiv.org/abs/1809.01494) (Saeidi+ 2018, EMNLP)
+* [Multi-Relational Question Answering from Narratives: Machine Reading and Reasoning in Simulated Worlds](http://aclweb.org/anthology/P18-1077) (Labutov+ 2018, ACL)
+* [Event2Mind: Commonsense Inference on Events, Intents, and Reactions](http://aclweb.org/anthology/P18-1043) (Rashkin+ 2018, ACL)
+* [Modeling Naive Psychology of Characters in Simple Commonsense Stories](http://aclweb.org/anthology/P18-1213) (Rashkin+ 2018, ACL)
+* [emrQA: A Large Corpus for Question Answering on Electronic Medical Records](http://aclweb.org/anthology/D18-1258) (Pampari+ 2018, EMNLP)
 
 Note:
 * QA = question answering, RC = reading comprehension = question answering with the context, NLI = natural language inference aka recognizing textual entailment
